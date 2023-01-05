@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**esteblock/esteblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Developer, MSc in Applied Economics & Electrical Engineer. Passionate about a decentralized world, DeFi, renewable energy & electricity markets.
 
-Here are some ideas to get you started:
+- 🤓 My experience:
+  - Solidity development.
+  - Ethereum & Avalanche
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - [@soroban-react library] (https://github.com/esteblock/soroban-react)
+  - [pet-adopt Dapp/tutorial in Soroban] (https://github.com/esteblock/pet-adopt-soroban)
+  
+- 🌱 I’m currently learning:
+  - Solana's Rust Smart Contract development.
