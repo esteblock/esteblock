@@ -5,6 +5,7 @@ Blockchain Developer, MSc in Applied Economics & Electrical Engineer. Passionate
 - 🤓 My experience:
   - Solidity development.
   - Ethereum & Avalanche
+  - Full-stack (Node, ReactJS)
 
 - 🔭 I’m currently working on:
   - [@soroban-react library](https://github.com/esteblock/soroban-react)
