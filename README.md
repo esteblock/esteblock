@@ -11,7 +11,7 @@ Blockchain Developer, MSc in Applied Economics & Electrical Engineer. Passionate
 - 🔭 I’m currently working on:
   - [@soroban-react library](https://github.com/esteblock/soroban-react)
   - [pet-adopt Dapp/tutorial in Soroban](https://github.com/esteblock/pet-adopt-soroban)
-  - [soroswap AMM in Soroban](https://github.com/esteblock/soroswap) (Awarded 3rd prize 🎊 in (https://hacka-soroban-athon.devpost.com)[Stellar's hackathon])
+  - [soroswap AMM in Soroban](https://github.com/esteblock/soroswap): Awarded 3rd prize 🎊 in (https://hacka-soroban-athon.devpost.com)[Stellar's hackathon]
   
 - 🌱 I’m currently learning:
   - Solana's Rust Smart Contract development.
