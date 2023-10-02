@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am esteblock, Founder and CEO of [PaltaLabs 🥑](https://paltalabs.io). We creat Blockchain futures.
+I am esteblock, Founder and CEO of [PaltaLabs 🥑](https://paltalabs.io), where we create the future in the Blockchain.
+
+
 I am Founder, Blockchain Developer, MSc in Applied Economics & Electrical Engineer. Passionate about a decentralized world, DeFi, renewable energy & electricity markets.
 
 - 🤓 My experience:
