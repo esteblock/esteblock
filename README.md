@@ -6,7 +6,7 @@ I am Founder, Blockchain Developer, MSc in Applied Economics & Electrical Engine
 
 - 🤓 My experience:
   - Soroban (rust) smart contracts
-  - @soroban-reat 
+  - @soroban-react 
   - Solidity development.
   - Ethereum & Avalanche
   - Full-stack (Node, ReactJS)
