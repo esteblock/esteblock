@@ -1,20 +1,24 @@
-### Hi there 👋
-I am esteblock, Founder and CEO of [PaltaLabs 🥑](https://paltalabs.io), where we create the future in the Blockchain.
+## Hi 👋 I’m Esteban (@esteblock)
 
+Founder & CEO of **[PaltaLabs 🥑](https://paltalabs.io)** — building DeFi and real-world asset infrastructure on **Stellar (Soroban)**.
 
-I am Founder, Blockchain Developer, MSc in Applied Economics & Electrical Engineer. Passionate about a decentralized world, DeFi, renewable energy & electricity markets.
+Electrical Engineer · MSc in Applied Economics · Blockchain Developer
 
-- 🤓 My experience:
-  - Soroban (rust) smart contracts
-  - @soroban-react 
-  - Solidity development.
-  - Ethereum & Avalanche
-  - Full-stack (Node, ReactJS)
-  - Stellar's Soroban
+---
 
-- 🔭 I’m currently working on:
-  - [Soroswap.Finance - AMM and AMM Aggregator on Soroban](https://github.com/soroswap): Founder and CEO  
-  - [DeFindex, DeFi made easy on Soroban](https://github.com/paltalabs/defindex) 
-  - [@soroban-react library](https://github.com/paltalabs/soroban-react/): Creator and main developper
-  
-  
+### 🚀 Projects
+
+**[PaltaLabs](https://paltalabs.io)** — *Founder & CEO*  
+DeFi & RWA venture studio on Stellar
+
+**[Soroswap.Finance](https://soroswap.finance)** — *Founder*  
+First AMM + Aggregator on Soroban
+
+**[DeFindex](https://github.com/paltalabs/defindex)**  
+Plug-and-play vault & yield infrastructure for wallets and fintechs
+
+---
+
+### 👨‍💻
+
+Technical founder. Not coding every day, but hands-on when it matters — prototyping, reviewing, and shipping **critical smart contracts**.
