@@ -1,6 +1,6 @@
 ## Hi 👋 I’m Esteban (@esteblock)
 
-Founder & CEO of **[PaltaLabs 🥑](https://paltalabs.io)** — building DeFi and real-world asset infrastructure on **Stellar (Soroban)**.
+Founder & CEO of **[PaltaLabs 🥑](https://paltalabs.io)** — building DeFi and real-world asset infrastructure on **Stellar**.
 
 Electrical Engineer · MSc in Applied Economics · Blockchain Developer
 
