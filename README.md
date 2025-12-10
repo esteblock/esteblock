@@ -9,13 +9,17 @@ Electrical Engineer · MSc in Applied Economics · Blockchain Developer
 ### 🚀 Projects
 
 **[PaltaLabs](https://paltalabs.io)** — *Founder & CEO*  
-DeFi & RWA venture studio on Stellar
+DeFi & RWA venture studio on Stellar  
+🔗 [Website](https://paltalabs.io) · 📦 [GitHub](https://github.com/paltalabs) · 🐦 [X](https://x.com/paltalabs)
 
 **[Soroswap.Finance](https://soroswap.finance)** — *Founder*  
-First AMM + Aggregator on Soroban
+First AMM + Aggregator on Soroban  
+🔗 [Website](https://soroswap.finance) · 📦 [GitHub](https://github.com/soroswap) · 🐦 [X](https://x.com/soroswap)
 
 **[DeFindex](https://github.com/paltalabs/defindex)**  
-Plug-and-play vault & yield infrastructure for wallets and fintechs
+Plug-and-play vault & yield infrastructure for wallets and fintechs  
+🔗 [Website](https://defindex.io) · 📦 [GitHub](https://github.com/paltalabs/defindex) · 🐦 [X](https://x.com/defindex_)
+
 
 ---
 
