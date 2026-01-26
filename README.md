@@ -9,7 +9,7 @@ Electrical Engineer · MSc in Applied Economics · Blockchain Developer
 ### 🚀 Projects
 
 **[PaltaLabs](https://paltalabs.io)** — *Founder & CEO*  
-DeFi & RWA venture studio on Stellar. Products: DeFindex & Soroswap
+DeFi & RWA venture studio on Stellar. Products: DeFindex & Soroswap  
 🔗 [Website](https://paltalabs.io) · 📦 [GitHub](https://github.com/paltalabs) · 🐦 [X](https://x.com/paltalabs)
 
 **[DeFindex](https://github.com/paltalabs/defindex)**  — *Founder & CEO*  
