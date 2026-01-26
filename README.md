@@ -18,6 +18,7 @@ DeFi & RWA venture studio on Stellar
 **[Soroswap.Finance](https://soroswap.finance)** — *Founder & CEO*  
 First AMM + Aggregator on Soroban  
 🔗 [Website](https://soroswap.finance) · 📦 [GitHub](https://github.com/soroswap) · 🐦 [X](https://x.com/soroswap)
+
 ---
 
 ### 👨‍💻
